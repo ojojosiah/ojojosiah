@@ -1,45 +1,41 @@
 <div align="center">
   <img src="assets/banner.jpg" alt="Welcome Banner" width="100%" />
-  <h1>Welcome to Jolectro's Data Analytics Hub</h1>
-  <p>Turning data into insights | Python | SQL | Excel | Visualization | STEM & Web Development</p>
+  <h1>The Jolectro Workspace</h1>
+  <p>Data Analysis | Web Development | Narrative Engineering</p>
 </div>
 
 ---
 
 ## About Me
 
-I am a **Data Analyst and Educator** with a strong **STEM and web development background**, passionate about turning raw data into actionable insights.  
-My foundation in **scientific analysis and coding** allows me to approach problems methodically, automate workflows, and create interactive dashboards.  
+Welcome to my digital workspace. I am Josiah, also known as Jolectro. This workspace is where I combine my experience as an educator with my passion for building useful things. I believe that the precision and intelligence found in the universe point to a Creator, and I try to reflect that order by writing code that is transparent and simple to understand.
 
-- Currently learning: **Machine Learning, Advanced SQL, Data Visualization**  
-- Expertise in: **Python, SQL, Excel, Pandas, NumPy, Tableau, Jupyter Notebooks, React, JavaScript, HTML/CSS**  
-- STEM domain knowledge: **Chemistry, Biology, Physics**  
-- Goal: To **leverage my diverse background to solve complex problems and communicate insights clearly**
+My journey is multifaceted. I am currently working toward becoming a Machine Learning engineer and documenting my progress as I learn the basics of SQL and Tableau. My long-term vision extends to aeronautical engineering and developing water-driven agricultural systems. You will find a mix of projects here, from utility software and data analysis to the fictional stories I link with my music. I am currently building dedicated portfolios for each of these passions. In the meantime, if you need a break from the code and technical details, I invite you to unwind with the songs on my music platform.
 
 ---
 
-## Skills & Tools
+## Tools and Technologies
+
+I primarily work with Python and React to build functional tools and utility software. I am also dedicated to growing my technical toolkit; I am currently spending time learning the fundamentals of SQL and exploring how to create better visualizations in Tableau. My goal is to use these tools to communicate ideas effectively and solve real-world problems.
+
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-005C8C?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/SQL-Learning-005C8C?style=flat&logo=postgresql&logoColor=white" alt="SQL Learning" />
+  <img src="https://img.shields.io/badge/Tableau-Learning-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Learning" />
 </p>
 
 ---
 
-## Connect With Me
+## Let's Connect
+
+I am always happy to chat about utility software, engineering concepts, or creative projects. If you have a question or just want to share ideas, please feel free to reach out.
+
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jolectro777@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojojosiah)
+[![Gmail](https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jolectro777@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojojosiah)
 
 </div>
 
@@ -47,6 +43,6 @@ My foundation in **scientific analysis and coding** allows me to approach proble
 
 <div align="center">
 
-*“Data analysis, STEM problem-solving, and web development — different tools, one purpose: clarity and impact.”*
+*"Precision in code, purpose in creation."*
 
 </div>
