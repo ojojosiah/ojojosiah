@@ -27,6 +27,19 @@ I primarily work with Python and React to build functional tools and utility sof
 </p>
 
 ---
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![Josiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojojosiah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojojosiah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
+
+---
 
 ## Let's Connect
 
@@ -36,6 +49,7 @@ I am always happy to chat about utility software, engineering concepts, or creat
 
 [![Gmail](https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jolectro777@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojojosiah)
+[![YouTube](https://img.shields.io/badge/YouTube-Jolectro-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Jolectro)
 
 </div>
 
