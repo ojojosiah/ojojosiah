@@ -8,15 +8,15 @@
 
 ## About Me
 
-Welcome to my digital workspace. I am Josiah, also known as Jolectro. This workspace is where I combine my experience as an educator with my passion for building useful things. I believe that the precision and intelligence found in the universe point to a Creator, and I try to reflect that order by writing code that is transparent and simple to understand.
+Welcome to my digital workspace. I am Josiah, also known as Jolectro. This workspace is where I combine my experience as an educator with my passion for building useful things. I believe that the precision and intelligence found in the universe point to a Creator, and I try to reflect that order by writing code that is unique yet simple to understand.
 
-My journey is multifaceted. I am currently working toward becoming a Machine Learning engineer and documenting my progress along the way. My long-term vision extends to aeronautical engineering and developing water-driven agricultural systems. You will find a mix of projects here, from utility software and data models to the fictional stories I link with my music. I am currently building dedicated portfolios for each of these passions. In the meantime, if you need a break from the code and technical details, I invite you to unwind with the songs on my music platform.
+My journey is multifaceted. I am currently working toward becoming a Machine Learning engineer, but my long-term vision extends to aeronautical engineering and developing water-driven agricultural systems. You will find a mix of projects here, from utility software and data models to the fictional stories I link with my music. I am currently building dedicated portfolios for each of these passions. In the meantime, if you need a break from the code and technical details, I invite you to unwind with the songs on my music platform.
 
 ---
 
 ## Tools and Technologies
 
-I primarily work with Python and React to build functional tools and utility software. I am also dedicated to growing my technical toolkit. My goal is to use these tools to communicate ideas effectively and solve real-world problems.
+I primarily work with Python and Flutter to build functional tools and utility software. I am also dedicated to growing my technical toolkit. My goal is to use these tools to express brilliant ideas and solve real-world problems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -30,7 +30,7 @@ I primarily work with Python and React to build functional tools and utility sof
 
 ## Let's Connect
 
-I am always happy to chat about utility software, engineering concepts, or creative projects. If you have a question or just want to share ideas, please feel free to reach out.
+I am always happy to chat about utility software, engineering concepts, or creative projects. If you have a question or you just wanna share ideas, please feel free to reach out.
 
 <div align="center">
 
